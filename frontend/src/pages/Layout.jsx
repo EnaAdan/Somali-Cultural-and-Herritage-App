@@ -15,7 +15,9 @@ Layout() {
         {/* <header></header> */}
         <div className="border-b">
             <div className="container px-5 py-5 flex justify-between">
+                <link to='/'>
                 <span className='font-extrabold text-2xl'>Somali Cultural and Herritage App</span>
+                </link>
                 <div className='flex'>
                     <ul className='flex'>
                         {
@@ -25,7 +27,7 @@ Layout() {
                         }
                     </ul>
                     <button className='bg-slate-500 text-white px-2 py-1 rounded'>
-                        <Link>+ New Post</Link>
+                        <Link to={'/Create'}>+ New Post</Link>
                     </button>
 
                 </div>

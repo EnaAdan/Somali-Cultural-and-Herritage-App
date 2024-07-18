@@ -4,8 +4,8 @@ import { BrowserRouter,Routes,Route } from 'react-router-dom';
 import Layout from './pages/Layout';
 import Home from './pages/Home';
 import Blog from './pages/Blog';
-
-function App() {
+import CreateBlogs from './pages/CreateBlogs';
+function App()  {
   const [count, setCount] = useState(0)
 
   return (
@@ -15,7 +15,10 @@ function App() {
         <Route path='/' element={<Layout/>}>
           <Route path='/' element={<Home/>}></Route>
           <Route path='/Blog' element={<Blog/>}></Route>
-        </Route>
+          <Route path='Create' element={<CreateBlogs/>}></Route>
+
+
+          </Route>
       </Routes>
       
       </BrowserRouter>
