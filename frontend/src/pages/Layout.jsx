@@ -1,5 +1,5 @@
 import React from 'react';
-import { Outlet, Link } from 'react-router-dom';
+import { Link, Outlet } from 'react-router-dom';
 
 
 export default function 
@@ -15,9 +15,9 @@ Layout() {
         {/* <header></header> */}
         <div className="border-b">
             <div className="container px-5 py-5 flex justify-between">
-                <link to='/'>
+                <Link to=' '>
                 <span className='font-extrabold text-2xl'>Somali Cultural and Herritage App</span>
-                </link>
+                </Link>
                 <div className='flex'>
                     <ul className='flex'>
                         {
@@ -28,15 +28,32 @@ Layout() {
                     </ul>
                     <button className='bg-slate-500 text-white px-2 py-1 rounded'>
                         <Link to={'/Create'}>+ New Post</Link>
+                        
+                        
                     </button>
 
                 </div>
             </div>
         </div>
         {/* <body></body> */}
-        <div className='flex mx-auto px-5 md:px-20'>
+        <div className=' button-grid flex mx-auto px-5 md:px-20 '>
             <div className="mt-5 mb-5 min-h-[500px] w-full">
             <Outlet></Outlet>
+            
+            <button className='bg-slate-800 text-white px-6 py-1 rounded-2xl text-2xl '>
+            <Link to={'/Hiddaha'}>Click Here to see more detail</Link>
+            </button>
+            
+
+            <button className='bg-slate-800 text-white px-6 py-1 rounded-2xl  text-2xl '>
+            <Link  to={'/Blog'}>Click Here to see more detail</Link>
+            </button>
+            
+
+            <button className='bg-slate-800 text-white px-4 py-1 rounded-2xl text-2xl'>
+            <Link to={'/Blog'}>Click Here to see more detail</Link>
+            </button>
+            
             </div>
         </div>
         {/* <footer></footer> */}

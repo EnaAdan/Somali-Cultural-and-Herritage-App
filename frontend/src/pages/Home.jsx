@@ -11,13 +11,7 @@ Home() {
             createdon:'24 Jan, 2024',
             comments:'0'
         },
-        {
-            title:'Suugaanta soomaalida',
-            image:'https://picsum.photos/seed/cpsprodpb/300/200',
-            description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...',
-            createdon:'24 Jan, 2024',
-            comments:'0'
-        },
+       
         {
             title:'Cuntooyinka Soomaalida',
             image:'https://ichef.bbci.co.uk/ace/ws/637/cpsprodpb/b067/live/a3358f40-33dd-11ef-9b38-7b111e405f42.jpg.webp',
@@ -35,6 +29,7 @@ Home() {
 
     ]
   return (
+    
     <div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
             {data.map(x =>{
@@ -42,6 +37,7 @@ Home() {
             })}
             
         </div>
+        
     </div>
   );
 }

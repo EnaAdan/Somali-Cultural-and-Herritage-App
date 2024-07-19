@@ -28,7 +28,7 @@ export default function
                 <label htmlFor='' className='ml-1 text-gray-500'>Image</label>
                 <input type="file" className=' border border-gray-300 rounded my-2 p-2'/>
                 <label htmlFor='' className='ml-1 text-gray-500'>Post</label>
-                <ReactQuill className='bg-white rounded mb-2 mt-2 editingarea' theme="snow" value={value} onChange={setValue} />                <hr />
+                <ReactQuill className='bg-white rounded mb-2 mt-2 ' theme="snow" value={value} onChange={setValue} />                <hr />
                 <button className='bg-slate-500 text-white h-8 w-[100px] mt-2 rounded'>Submit</button>
 
             </div>
