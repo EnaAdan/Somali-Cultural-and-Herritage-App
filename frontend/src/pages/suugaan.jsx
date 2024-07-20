@@ -8,11 +8,11 @@ export default function () {
             <div className="flex mt-4 mb-4">
                 <small>july 18, 2024</small>
             </div>
-            <img className='rounded-lg' src="https://picsum.photos/seed/picsum/300/200" alt="" />
+            <img className='rounded-lg' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3l4bArM0muxNSdon5VwqCabzKaGkA8tqG1A&s" alt="" />
             <div>
                 <h2 className='text-2xl mt-2 mb-2'>The Cultural Significance of Food</h2>
                 Food is much more than just sustenance; it is a cornerstone of culture, community, and identity. Across the globe, culinary traditions and practices reveal a lot about the history, values, and social structures of different societies. In many cultures, food is a way to bring people together, celebrate, and preserve heritage.
-
+              
 <h2 className='text-2xl mt-2 mb-2'>Food as an Expression of Culture</h2>
 Every culture has its unique culinary traditions that are passed down through generations. These traditions encompass not only the types of food consumed but also the methods of preparation, cooking techniques, and the rituals associated with eating.
 

@@ -1,12 +1,5 @@
 body{
   background-color: aliceblue;
 }
-/* App.css */
-.button-left {
-  padding-right: 10px; /* Kala siki 10px oo u dhaxeeya badhamada */
-}
 
-.button-right {
-  padding-left: 10px; /* Kala siki 10px oo u dhaxeeya badhamada */
-}
 
