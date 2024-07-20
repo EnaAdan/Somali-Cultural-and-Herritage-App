@@ -59,7 +59,7 @@ Layout() {
         {/* <footer></footer> */}
         <div className="flex bg-slate-800">
             <div className="flex mx-auto px-20 py-20 items-center justify-center">
-                <h3 className='text-gray-400'>BLOGGER</h3>
+                <h3 className='text-gray-400'>footer</h3>
             </div>
 
         </div>

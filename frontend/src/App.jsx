@@ -3,9 +3,9 @@ import './App.css'
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 import Layout from './pages/Layout';
 import Home from './pages/Home';
-import Blog from './pages/suugaan';
+import Blog from './pages/sp_som';
 import CreateBlogs from './pages/CreateBlogs';
-import Hiddaha from './pages/Hiddaha';
+import Hiddaha from './pages/his_som';
 function App()  {
   const [count, setCount] = useState(0)
 
