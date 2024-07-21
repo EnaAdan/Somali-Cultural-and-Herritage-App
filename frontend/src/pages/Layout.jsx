@@ -44,17 +44,15 @@ Layout() {
             <Link to={'/Hiddaha'}>Click Here to see more detail</Link>
             </button>
             
-
             <button className='bg-slate-800 text-white px-6 py-1 rounded-2xl  text-2xl '>
             <Link  to={'/Blog'}>Click Here to see more detail</Link>
             </button>
-            
 
-            <button className='bg-slate-800 text-white px-4 py-1 rounded-2xl text-2xl'>
-            <Link to={'/Blog'}>Click Here to see more detail</Link>
+            <button className='bg-slate-800 text-white px-5 py-1 rounded-2xl  text-2xl'>
+            <Link to={'/Herritage'}>Click Here to see more detait</Link>
             </button>
-            
             </div>
+            
         </div>
         {/* <footer></footer> */}
         <div className="flex bg-slate-800">

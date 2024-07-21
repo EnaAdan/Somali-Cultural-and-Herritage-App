@@ -6,6 +6,8 @@ import Home from './pages/Home';
 import Blog from './pages/sp_som';
 import CreateBlogs from './pages/CreateBlogs';
 import Hiddaha from './pages/his_som';
+import Herritage from './pages/Herritage';
+
 function App()  {
   const [count, setCount] = useState(0)
 
@@ -18,6 +20,7 @@ function App()  {
           <Route path='/Blog' element={<Blog/>}></Route>
           <Route path='Create' element={<CreateBlogs/>}></Route>
           <Route path='/Hiddaha' element={<Hiddaha/>}></Route>
+          <Route path='/Herritage' element={<Herritage/>}></Route>
 
 
           </Route>

@@ -56,6 +56,36 @@ Gameplay: These games are played outdoors and involve various physical and menta
 
 Summary
 Somali traditional games are an integral part of the culture and heritage of the Somali people. These games highlight the community’s values and skills, including agility, strength, and strategic thinking. Preserving and promoting these traditional games is crucial for maintaining Somali cultural heritage.</p>
+            <div>
+            <h2 className='text-2xl mt-2 mb-2'>Somali literature</h2>
+              <p>Somali literature is a crucial part of Somali culture and heritage. It encompasses various forms such as poetry, songs, proverbs, stories, and historical accounts, reflecting aspects of life, love, bravery, and other societal and environmental themes. Here are some key elements of Somali literature:
+
+1. **Poetry (Gabay):**
+Poetry is a central aspect of Somali literature. It includes poems that express emotions, historical events, or social commentary. Somali poetry is known for its structured form and rich content, including inspirational poems, love poems, elegies, and more.
+<hr />
+2. **Songs (Heesaha):**
+Somali songs are typically accompanied by music and vocal performance. They cover a wide range of topics such as love, memories, achievements, and politics. Somali songs often feature traditional musical styles and are performed during various events and celebrations.
+<hr />
+3. **Stories (Sheekooyinka):**
+Somali storytelling is an important cultural practice that includes myths, legends, and moral tales. These stories convey traditional knowledge, ethics, and community values. They often feature allegorical elements and historical references.
+<hr />
+4. **Proverbs (Maahmaahyada):**
+Proverbs are short, wise sayings that reflect Somali wisdom and cultural values. They provide insights and guidance on various aspects of life, relationships, and societal norms. Proverbs are used to teach lessons and convey deep meanings.
+<hr />
+5. **Art and Craft (Fanka iyo Farshaxanka):**
+Somali art and crafts include traditional clothing, visual art, and other creative expressions. This includes handwoven textiles, decorative items, and traditional art forms that reflect the Somali aesthetic and cultural identity.
+<hr />
+6. **Cultural Poems (Gabayada Dhaqanka):**
+Cultural poems discuss aspects of Somali culture and history. They often provide commentary on traditions, societal changes, and historical events, helping to preserve and promote cultural heritage.
+<hr />
+7. **Modern Literature (Qoraalka iyo Suugaanta Madaniga):**
+Modern Somali literature includes written works that address contemporary issues, politics, and social conditions. This includes novels, essays, and articles that explore modern experiences and challenges.
+<hr />
+8. **Performing Arts (Faneedyada):**
+Performing arts in Somali culture include various forms of traditional and contemporary performances such as music, dance, and theatrical plays. These performances reflect Somali heritage and contribute to the cultural expression of the community.
+<hr />
+Somali literature is rich and diverse, capturing the essence of Somali life and cultural values. It holds significant historical and cultural value and continues to evolve, reflecting the dynamic nature of Somali society.</p>
+            </div>
             </div>
         </div>
     </div>
