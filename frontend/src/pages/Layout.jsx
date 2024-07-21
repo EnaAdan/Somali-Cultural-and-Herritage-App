@@ -27,7 +27,7 @@ Layout() {
                         }
                     </ul>
                     <button className='bg-slate-500 text-white px-2 py-1 rounded'>
-                        <Link to={'/Create'}>+ New Post</Link>
+                        <Link to={'/Create'}>+ Add New History</Link>
                         
                         
                     </button>
